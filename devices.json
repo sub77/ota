@@ -1,6 +1,6 @@
 {
-    "motorola/condor_umts": "motorola/condor",
-    "motorola/thea": "motorola/thea",
+    "motorola/falcon_umts": "motorola/falcon",
+    "motorola/falcon": "motorola/falcon",
 
     "xiaomi/aries": "xiaomi/aries",
     "xiaomi/cranco": "xiaomi/cranco"
